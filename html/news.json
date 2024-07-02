@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "heading": "World’s oldest dog living confirmed as 31-years-old Rafeiro do Alentejo.",
+        "image": "../Assets/Images/oldestdog.png",
+        "content": "Bobi (born 11 May 1992) is a male purebred Rafeiro do Alentejo dog cared for by Leonel Costa of Conqueiros, Leiria, Portugal. On 2 February 2023, Bobi was confirmed as the first dog on record to live to the age of 30, along with being the oldest dog on record to ever live. On 11 May 2023, Bobi turned 31."
+    },
+    {
+        "id": 2,
+        "heading": "Meet Pearl, the pocket-sized chihuahua named shortest dog by Guinness World Records",
+        "image": "../Assets/Images/pearl-worlds-shortest-dog-041223-3-4adec9d684de473ab43eaaf3dc8ca6c3.jpg",
+        "content": "Measuring at 3.59 inches tall and just five inches in length, Pearl is shorter than a popsicle stick and around the same size as a dollar bill, according to the Guinness World Records. When the chihuahua was born in September 2020 at Crystal Creek Animal Hospital in Orlando, Florida, she weighed less than an ounce at birth."
+    },
+    {
+        "id": 3,
+        "heading": "Viral Video: Pet Dog goes Paragliding with owner, netizens react",
+        "image": "../Assets/Images/petnews3.png",
+        "content": "Many social media users are outraged after seeing a video of a dog paragliding with its owner. The now-viral Instagram video demonstrates the four-legged furry ball being properly tethered for flight together with its owner. The man used a GoPro to capture the entire journey. The pair paragliding was included in a few wide Instagram Reels photos as well. They successfully touched down on the ground at the end of the video."
+    },
+    {
+        "id": 4,
+        "heading": "This 'intelligent' dog's digging skills goes viral, netizens say can solve Suez Canal blockade",
+        "image": "../Assets/Images/petnews4.png",
+        "content": "A new hilarious video of an Australian cattle dog is going viral on social media, it is an energetic dog who seems good at digging an irrigation trench and guiding water. The 59-second video was uploaded on a Twitter page, named, 'Humour and Animals', that shared the video of a dog digging the water channel."
+    },
+    {
+        "id": 5,
+        "heading": "Dog rescued after getting its head stuck in wheel rim",
+        "image": "../Assets/Images/dog_rescue.png",
+        "content": "A dog has been rescued from a tight spot by Queensland firefighters armed with a bottle of olive oil and a lot of patience. The puppy, named Bonnie, stuck its head through the middle of a wheel rim but couldn't pull itself back out. It was up to the firefighters at Mareeba Fire and Rescue to figure out a solution to the sticky situation. 'We hear she's recovering well.'"
+    }
+]

@@ -1,0 +1,112 @@
+{
+  "pets": [
+    {
+      "id": 1,
+      "pets": [
+        {
+          "name": "Max",
+          "species": "Dog",
+          "age": "8 years",
+          "gender": "Male",
+          "breed": "G-Retriever",
+          "color": "Brown",
+          "location": "Delhi",
+          "image": "../Assets/Images/goldern-ret.jpg",
+          "detail_link": "../pet-detail/max.html"
+        },
+        {
+          "name": "Roblet",
+          "species": "Dog",
+          "age": "8 years",
+          "gender": "Male",
+          "breed": "Pug",
+          "color": "Brown",
+          "location": "Lucknow",
+          "image": "../Assets/Images/pug.jpg",
+          "detail_link": "../pet-detail/roblet.html"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "pets": [
+        {
+          "name": "Sipper",
+          "species": "Dog",
+          "age": "7 years",
+          "gender": "Male",
+          "breed": "Husky",
+          "color": "Brown",
+          "location": "Kashmir",
+          "image": "../Assets/Images/husky.jpg",
+          "detail_link": "../pet-detail/sipper.html"
+        },
+        {
+          "name": "Baily",
+          "species": "Cat",
+          "age": "2.5 years",
+          "gender": "Female",
+          "breed": "Ragdoll",
+          "color": "White",
+          "location": "Karnataka",
+          "image": "../Assets/Images/ragdo.jpg",
+          "detail_link": "../pet-detail/baily.html"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "pets": [
+        {
+          "name": "Zombo",
+          "species": "Cat",
+          "age": "1.5 years",
+          "gender": "Female",
+          "breed": "Persian",
+          "color": "White",
+          "location": "Kanpur",
+          "image": "../Assets/Images/persian.webp",
+          "detail_link": "../pet-detail/zombo.html"
+        },
+        {
+          "name": "cooper",
+          "species": "Rabbit",
+          "age": "0.5 years",
+          "gender": "Female",
+          "breed": "Angora",
+          "color": "White",
+          "location": "Kashmir",
+          "image": "../Assets/Images/angora.jpg",
+          "detail_link": "../pet-detail/cooper.html"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "pets": [
+        {
+          "name": "Sheru",
+          "species": "Dog",
+          "age": "5 years",
+          "gender": "Male",
+          "breed": "G-Shepherd",
+          "color": "Black",
+          "location": "Kolkata",
+          "image": "../Assets/Images/german.jpg",
+          "detail_link": "../pet-detail/sheru.html"
+        },
+        {
+          "name": "Swaggy",
+          "species": "Dog",
+          "age": "2 years",
+          "gender": "Female",
+          "breed": "Pomeranian",
+          "color": "White",
+          "location": "Kashmir",
+          "image": "../Assets/Images/porme.jpg",
+          "detail_link": "../pet-detail/sadie.html"
+        }
+      ]
+    }
+  ]
+}

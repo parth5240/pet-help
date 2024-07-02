@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "poster": "../blogs/img/b1-poster.png",
+        "title": "Adopting A Chihuahua/Beagle Mix",
+        "description": "I know, I was surprised to find out that a Chihuahua/beagle mix was a thing, too, but lo and behold, the Cheagle is very much a thing....",
+        "read": "../blogs/dan.html"
+    },
+    {
+        "id": 2,
+        "poster": "../blogs/img/b2-poster.jpg",
+        "title": "Exploring the World of Huskies",
+        "description": "Discover the beauty and challenges of living with a Husky, a majestic and energetic breed that steals hearts everywhere.",
+        "read": "../blogs/husky-world.html"
+    },
+    {
+        "id": 3,
+        "poster": "../blogs/img/b3-poster.jpg",
+        "title": "Training Tips for Labradoodles",
+        "description": "Labradoodles are known for their intelligence and friendly nature. Uncover effective training strategies to nurture a well-behaved companion.",
+        "read": "../blogs/labradoodle-training.html"
+    },
+    {
+        "id": 4,
+        "poster": "../blogs/img/b4-poster.jpg",
+        "title": "The Joys of Fostering Rescue Puppies",
+        "description": "Embark on a heartwarming journey of fostering rescue puppies, providing them with love and care as they prepare for their forever homes.",
+        "read": "../blogs/foster-joys.html"
+    },
+    {
+        "id": 5,
+        "poster": "../blogs/img/b5-poster.png",
+        "title": "Pomeranian Paradise: Life with a Fluffy Friend",
+        "description": "Delve into the delightful world of Pomeranians, small in size but big in personality. Learn about their quirks and how they steal the spotlight.",
+        "read": "../blogs/pomeranian-life.html"
+    },
+    {
+        "id": 6,
+        "poster": "../blogs/img/b6-poster.png",
+        "title": "Navigating Canine Nutrition: A Guide for Owners",
+        "description": "Understand the essentials of providing a balanced diet for your furry friend. Explore nutritional needs and make informed choices for a healthy dog.",
+        "read": "../blogs/canine-nutrition.html"
+    },
+    {
+        "id": 7,
+        "poster": "../blogs/img/b7-poster.png",
+        "title": "Dachshund Delights: Tales of a Sausage Dog Owner",
+        "description": "Uncover the charm of Dachshunds and the unique joys and challenges they bring to their owners. A delightful read for sausage dog enthusiasts.",
+        "read": "../blogs/dachshund-tales.html"
+    },
+    {
+        "id": 8,
+        "poster": "../blogs/img/b8-poster.png",
+        "title": "Caring for Aging Golden Retrievers",
+        "description": "As your Golden Retriever ages, discover compassionate care tips to ensure their golden years are filled with comfort, love, and quality of life.",
+        "read": "../blogs/golden-care.html"
+    },
+    {
+        "id": 9,
+        "poster": "../blogs/img/b9-poster.png",
+        "title": "Australian Shepherd Adventures",
+        "description": "Embark on thrilling adventures with Australian Shepherds, known for their intelligence and agility. Learn about their active lifestyle and loyal nature.",
+        "read": "../blogs/aussie-adventures.html"
+    },
+    {
+        "id": 10,
+        "poster": "../blogs/img/b10-poster.png",
+        "title": "The Enchanting World of Shih Tzus",
+        "description": "Explore the enchanting world of Shih Tzus, their regal history, and the joys of having a loving companion with a lively and affectionate personality.",
+        "read": "../blogs/shih-tzu-enchantment.html"
+    }
+]
